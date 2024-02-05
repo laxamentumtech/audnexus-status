@@ -40,18 +40,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 108,
-    "timeWeek": 256,
-    "timeMonth": 253,
-    "timeYear": 253,
-    "dailyMinutesDown": {}
+    "time": 246,
+    "timeDay": 96,
+    "timeWeek": 235,
+    "timeMonth": 246,
+    "timeYear": 246,
+    "dailyMinutesDown": {
+      "2024-02-05": 0
+    }
   },
   {
     "name": "Test Broken Site",
